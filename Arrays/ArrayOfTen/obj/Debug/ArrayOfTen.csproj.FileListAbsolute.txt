@@ -1,0 +1,7 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\ArrayOfTen\bin\Debug\ArrayOfTen.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\ArrayOfTen\bin\Debug\ArrayOfTen.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\ArrayOfTen\bin\Debug\ArrayOfTen.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\ArrayOfTen\obj\Debug\ArrayOfTen.csprojAssemblyReference.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\ArrayOfTen\obj\Debug\ArrayOfTen.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\ArrayOfTen\obj\Debug\ArrayOfTen.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arrays\Arrays\ArrayOfTen\obj\Debug\ArrayOfTen.pdb
