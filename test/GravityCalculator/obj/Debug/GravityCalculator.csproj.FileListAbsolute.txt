@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\bin\Debug\GravityCalculator.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\bin\Debug\GravityCalculator.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\bin\Debug\GravityCalculator.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\obj\Debug\GravityCalculator.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\obj\Debug\GravityCalculator.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\obj\Debug\GravityCalculator.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetics\GravityCalculator\obj\Debug\GravityCalculator.pdb
