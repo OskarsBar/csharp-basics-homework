@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\CozaWoza\bin\Debug\CozaWoza.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\CozaWoza\bin\Debug\CozaWoza.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\CozaWoza\bin\Debug\CozaWoza.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\CozaWoza\obj\Debug\CozaWoza.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\CozaWoza\obj\Debug\CozaWoza.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\CozaWoza\obj\Debug\CozaWoza.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\CozaWoza\obj\Debug\CozaWoza.pdb
