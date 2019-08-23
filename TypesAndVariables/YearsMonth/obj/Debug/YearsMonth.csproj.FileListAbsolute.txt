@@ -1,0 +1,7 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\YearsMonth\bin\Debug\YearsMonth.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\YearsMonth\bin\Debug\YearsMonth.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\YearsMonth\bin\Debug\YearsMonth.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\YearsMonth\obj\Debug\YearsMonth.csprojAssemblyReference.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\YearsMonth\obj\Debug\YearsMonth.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\YearsMonth\obj\Debug\YearsMonth.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\YearsMonth\obj\Debug\YearsMonth.pdb
