@@ -1,0 +1,7 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\GuessNumber\bin\Debug\GuessNumber.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\GuessNumber\obj\Debug\GuessNumber.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\GuessNumber\obj\Debug\GuessNumber.pdb

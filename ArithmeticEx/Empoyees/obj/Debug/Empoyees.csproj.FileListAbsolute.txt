@@ -1,0 +1,6 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Empoyees\bin\Debug\Empoyees.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Empoyees\bin\Debug\Empoyees.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Empoyees\bin\Debug\Empoyees.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Empoyees\obj\Debug\Empoyees.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Empoyees\obj\Debug\Empoyees.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Empoyees\obj\Debug\Empoyees.pdb

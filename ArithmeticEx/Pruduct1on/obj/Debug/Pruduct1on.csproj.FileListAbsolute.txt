@@ -1,0 +1,6 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Pruduct1on\bin\Debug\Pruduct1on.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Pruduct1on\bin\Debug\Pruduct1on.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Pruduct1on\bin\Debug\Pruduct1on.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Pruduct1on\obj\Debug\Pruduct1on.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Pruduct1on\obj\Debug\Pruduct1on.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Pruduct1on\obj\Debug\Pruduct1on.pdb
