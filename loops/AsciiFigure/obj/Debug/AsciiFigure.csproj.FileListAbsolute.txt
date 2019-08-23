@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\bin\Debug\AsciiFigure.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\bin\Debug\AsciiFigure.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\bin\Debug\AsciiFigure.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\obj\Debug\AsciiFigure.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\obj\Debug\AsciiFigure.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\obj\Debug\AsciiFigure.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\AsciiFigure\obj\Debug\AsciiFigure.pdb

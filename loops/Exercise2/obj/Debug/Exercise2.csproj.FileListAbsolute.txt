@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise2\bin\Debug\Exercise2.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise2\bin\Debug\Exercise2.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise2\bin\Debug\Exercise2.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise2\obj\Debug\Exercise2.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Exercise2\obj\Debug\Exercise2.pdb

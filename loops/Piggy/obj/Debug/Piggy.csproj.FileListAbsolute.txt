@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piggy\obj\Debug\Piggy.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piggy\obj\Debug\Piggy.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piggy\bin\Debug\Piggy.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piggy\bin\Debug\Piggy.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piggy\bin\Debug\Piggy.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piggy\obj\Debug\Piggy.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Piggy\obj\Debug\Piggy.pdb

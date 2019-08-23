@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquere\bin\Debug\NumberSquere.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquere\bin\Debug\NumberSquere.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquere\bin\Debug\NumberSquere.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquere\obj\Debug\NumberSquere.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquere\obj\Debug\NumberSquere.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquere\obj\Debug\NumberSquere.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\NumberSquere\obj\Debug\NumberSquere.pdb
