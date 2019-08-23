@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.pdb

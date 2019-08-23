@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\tabulas\bin\Debug\tabulas.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\tabulas\bin\Debug\tabulas.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\tabulas\bin\Debug\tabulas.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\tabulas\obj\Debug\tabulas.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\tabulas\obj\Debug\tabulas.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\tabulas\obj\Debug\tabulas.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\tabulas\obj\Debug\tabulas.pdb

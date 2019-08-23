@@ -1,6 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Speed\bin\Debug\Speed.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Speed\bin\Debug\Speed.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Speed\bin\Debug\Speed.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Speed\obj\Debug\Speed.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Speed\obj\Debug\Speed.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\TypesAndVariables\Speed\obj\Debug\Speed.pdb
