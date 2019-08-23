@@ -1,0 +1,7 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Dots\bin\Debug\Dots.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Dots\bin\Debug\Dots.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Dots\bin\Debug\Dots.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Dots\obj\Debug\Dots.csprojAssemblyReference.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Dots\obj\Debug\Dots.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Dots\obj\Debug\Dots.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\Dots\obj\Debug\Dots.pdb

@@ -1,0 +1,7 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDices\bin\Debug\RollTwoDices.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDices\bin\Debug\RollTwoDices.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDices\bin\Debug\RollTwoDices.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDices\obj\Debug\RollTwoDices.csprojAssemblyReference.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDices\obj\Debug\RollTwoDices.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDices\obj\Debug\RollTwoDices.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Loops\Loops\RollTwoDices\obj\Debug\RollTwoDices.pdb
