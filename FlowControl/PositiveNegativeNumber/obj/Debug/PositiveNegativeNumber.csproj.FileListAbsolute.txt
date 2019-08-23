@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\bin\Debug\PositiveNegativeNumber.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\bin\Debug\PositiveNegativeNumber.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\bin\Debug\PositiveNegativeNumber.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PositiveNegativeNumber\obj\Debug\PositiveNegativeNumber.pdb

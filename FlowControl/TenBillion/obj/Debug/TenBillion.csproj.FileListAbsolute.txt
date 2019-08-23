@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\obj\Debug\TenBillion.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\obj\Debug\TenBillion.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\bin\Debug\TenBillion.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\bin\Debug\TenBillion.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\bin\Debug\TenBillion.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\obj\Debug\TenBillion.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\TenBillion\obj\Debug\TenBillion.pdb
