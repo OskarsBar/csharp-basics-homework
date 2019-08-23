@@ -1,6 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAvarage\obj\Debug\SumAvarage.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAvarage\bin\Debug\SumAvarage.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAvarage\bin\Debug\SumAvarage.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAvarage\bin\Debug\SumAvarage.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAvarage\obj\Debug\SumAvarage.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\SumAvarage\obj\Debug\SumAvarage.pdb

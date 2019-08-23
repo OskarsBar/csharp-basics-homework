@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\EvenAdd\bin\Debug\EvenAdd.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\EvenAdd\bin\Debug\EvenAdd.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\EvenAdd\bin\Debug\EvenAdd.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\EvenAdd\obj\Debug\EvenAdd.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\EvenAdd\obj\Debug\EvenAdd.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\EvenAdd\obj\Debug\EvenAdd.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\EvenAdd\obj\Debug\EvenAdd.pdb

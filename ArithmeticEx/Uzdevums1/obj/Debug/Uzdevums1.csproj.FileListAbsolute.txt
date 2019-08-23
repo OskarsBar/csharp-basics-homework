@@ -1,7 +1,0 @@
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Uzdevums1\bin\Debug\Uzdevums1.exe.config
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Uzdevums1\bin\Debug\Uzdevums1.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Uzdevums1\bin\Debug\Uzdevums1.pdb
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Uzdevums1\obj\Debug\Uzdevums1.csprojAssemblyReference.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Uzdevums1\obj\Debug\Uzdevums1.csproj.CoreCompileInputs.cache
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Uzdevums1\obj\Debug\Uzdevums1.exe
-C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\Uzdevums1\obj\Debug\Uzdevums1.pdb
