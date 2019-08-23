@@ -1,0 +1,7 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\BMI\bin\Debug\BMI.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\BMI\bin\Debug\BMI.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\BMI\bin\Debug\BMI.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\BMI\obj\Debug\BMI.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\Arithmetic\BMI\obj\Debug\BMI.pdb
