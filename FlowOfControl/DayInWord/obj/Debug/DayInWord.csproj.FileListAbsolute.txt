@@ -1,0 +1,7 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\DayInWord\obj\Debug\DayInWord.csprojAssemblyReference.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\DayInWord\obj\Debug\DayInWord.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\DayInWord\bin\Debug\DayInWord.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\DayInWord\bin\Debug\DayInWord.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\DayInWord\bin\Debug\DayInWord.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\DayInWord\obj\Debug\DayInWord.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\DayInWord\obj\Debug\DayInWord.pdb

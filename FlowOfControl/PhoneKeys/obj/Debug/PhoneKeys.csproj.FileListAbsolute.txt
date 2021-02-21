@@ -1,0 +1,7 @@
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PhoneKeys\obj\Debug\PhoneKeys.csprojAssemblyReference.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PhoneKeys\obj\Debug\PhoneKeys.csproj.CoreCompileInputs.cache
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PhoneKeys\bin\Debug\PhoneKeys.exe.config
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PhoneKeys\bin\Debug\PhoneKeys.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PhoneKeys\bin\Debug\PhoneKeys.pdb
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PhoneKeys\obj\Debug\PhoneKeys.exe
+C:\csharp\csharp-syllabus\csharp-basics\exercises\FlowOfControl\FlowControl\PhoneKeys\obj\Debug\PhoneKeys.pdb
